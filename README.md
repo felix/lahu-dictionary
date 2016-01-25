@@ -1,5 +1,7 @@
-# My dictionaries
+# English-Lahu dictionary
 
-Dictionary sources. Primarily for Lahu, Thai and English.
+TEI formatted dictionary source.
+
+Lahu-English coming soon.
 
 Feel free to contribute.
