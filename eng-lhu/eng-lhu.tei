@@ -1,0 +1,5572 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>English-Lahu Dictionary</title>
+                <respStmt>
+                    <resp>compiled by</resp>
+                    <name>Felix Hanley</name>
+                </respStmt>
+            </titleStmt>
+            <editionStmt>
+                <edition>0.1.0</edition>
+            </editionStmt>
+            <extent>about 553 headwords</extent>
+            <revisionDesc>
+                <change when="2015-01-18">
+                    <date>2015-01-18</date>
+                    <name>Felix Hanley</name>
+                    <list>
+                        <item>import from local source</item>
+                    </list>
+                </change>
+            </revisionDesc>
+            <notesStmt>
+                <note type="status">small</note>
+            </notesStmt>
+        </fileDesc>
+        <profileDesc>
+            <langUsage>
+                <language ident="en" usage="50">English</language>
+                <language ident="lhu" usage="50">Lahu</language>
+            </langUsage>
+        </profileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <entry>
+                <form>
+                    <orth>(vb) again</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>k'aw˰ (vb)</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>(vb) together</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ geh (vb)</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>12 apostles</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ la˰ g'awˇ teˇ chi nyiˇ g'aˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>a little</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>a ciˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>abandon</orth>
+                </form>
+                <sense>
+                    <gramGrp>
+                        <pos>vt</pos>
+                    </gramGrp>
+                    <cit type="trans">
+                        <quote>baˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ability to (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) puiˉ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>able</orth>
+                </form>
+                <sense n="1">
+                    <gramGrp>
+                        <pos>adv</pos>
+                    </gramGrp>
+                    <cit type="def">allowed</cit>
+                    <cit type="trans">
+                        <quote>(vb) hpeh˰ ve</quote>
+                    </cit>
+                </sense>
+                <sense n="2">
+                    <gramGrp>
+                        <pos>adv</pos>
+                    </gramGrp>
+                    <cit type="def">to have ability</cit>
+                    <cit type="trans">
+                        <quote>(vb) g'a ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>abortion</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>yaˇ te shawˆ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>accept, to</orth>
+                </form>
+                <sense>
+                    <gramGrp>
+                        <pos>vt</pos>
+                    </gramGrp>
+                    <cit type="trans">
+                        <quote>heuˆ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>accounts report</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpu caˇ lanˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Acts</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Tcuh yaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>actually</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ tehˬ k'oˆ k'o</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>adultery</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>haˉ chawˇ te ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>afraid</orth>
+                </form>
+                <sense>
+                    <gramGrp>
+                        <pos>vt</pos>
+                    </gramGrp>
+                    <cit type="trans">
+                        <quote>kawˆ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>after</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hk'aw˰ nawˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>afterward</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hk'aw˰ nawˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>age</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hk'aw˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>agree, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyi ma cawˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>alcoholic</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tzuhˬ yeˇ caˆ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>all</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'a peu-eˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>also</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>htawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>also, aswell</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nehˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>always</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'aˬhtaˆ ka˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>always (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) tcuhˉ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>always (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) tcuhˉ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Amos</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Aˍmoˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>angel</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>mvuhˇ naw ma tcuh yaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>angry, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyi ma g'eu ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>animal</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>to nuˇ to shaˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>animal classifier</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hkeh</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>announce, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>cawˍ nyiˍ-aˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>announcements</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>cawˍ nyaˍ ve teˇ hpaˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>apostle</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ la˰ g'awˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>April</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Eˉhpeˬleˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>argue, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>g'awˬ da˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>arm</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>la˰ g'awˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Armageddon</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Aˍ maˍ geˍ donˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>arrived at</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) gaˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>as much as possible</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>puiˉ te hpeh˰ ve hk'e</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ask, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>na ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ask, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>na nyi ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>assembly</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>uiˍ ve hpawnˬ da˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>assignment</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>a˰ piˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>at this moment</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>chi teˇ hkui</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>August</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Awˇguˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>auxilary pioneer</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpai o ni g'a ga heuˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>back</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'aw˰ nawˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>bad reputation</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ meh luˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>banana</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>aˉpawˇshiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>baptism</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>baˆ tiˆ saˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>baptism</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>iˉ k'aˆ tuˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>beans</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nawˆshiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>because</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>pa taw</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>because</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>cha ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>because of that</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>chi hta˰ pa taw</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>become (vb), to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) la ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>become, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpeh˰ la ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>beef</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nuˇ shaˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>before</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ g'uˇ suhˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>bible</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>li˰ hpu</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>bible reading</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>li˰ hpu g'aw ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>bible student</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>li˰ hpu henˇ ma</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>bible student</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>li˰ hpu henˇ paˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>big</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>uiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>blame, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>she piˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>blessing</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ bon</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>blood transfusion</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>suhˍ keu ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>body of elders</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>uˉ peunˍ sheˇ hpaˇ awˬ moˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>book</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>li˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>book classifier</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>li˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>both (clf)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyiˇ (clf) (clf)</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>brave, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyi ma uiˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>bring, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>yuˬ la ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>brothers</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˇ viˇ awˇ nyi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>but</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ya˰ hk'aˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>buy, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>vuiˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>can (allowed) (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) hpeh˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>can (have ability) (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) g'a ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>capable of completing (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) gaˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>care for, to </orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ha˰ shaˉ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>carrot</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>kaˇ laˇ g'awˇ ma</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>chapter</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>kaˇ naˉ uiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>chicken</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>g'aˆ shaˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>christian</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hkri˰ yaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Chronicles</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Raˍsaˍvanˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>circuit</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hkri˰ yaˇ awˬ moˍ hk'a peu-e</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>circuit assembly</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyiˇ nyi hpawnˬ da˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>circuit overseer</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hkri˰ yaˇ awˬ moˍ hk'a peu-e hpawnˬ da˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>classifier for humans</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>g'aˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>clear, to be (like glass)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>kehˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>close</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ paˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Collossians</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Kawˇlawˇsehˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>come, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>la ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>complete, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>biˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>confident, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyi ma uiˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>congregation</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hkri˰ yaˇ awˬ moˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>congregation book study</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hkri˰ yaˇ awˬ moˍ awˬ hk'aw lo henˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>consider, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shawˍ nyi ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>consider, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shawˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>contribution</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tanˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>contribution box</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tanˇ kuiˬ ta k'oˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Corinthians</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Kawˇrenˍhtuˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>crime</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tiˇ pehˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>cucumber</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>aˉhpehˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Daniel</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Daˍyeˍlaˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>day</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ nyi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>December</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Diˬseˇbaˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>demonstrate</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>te maˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>depression</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>jo suhˍ ehˍhpeh˰ hpeh˰ chehˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>destruction</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>luˬ ve sheˆ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Deuteronomy</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Bon maˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>different, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>peun ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>difficult, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>haˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>dig, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>duˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>disciple</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ la˰ g'awˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>discipline</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>jaw˰ maˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>discouraged, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyi ma luˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>discuss, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>chaˬ nyi ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>discuss, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>jehˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>discussion</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>chaˬ nyi tehˆ nyi ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>disease</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>naˬ beuˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>district assembly</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shehˆ nyi hpawnˬ da˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>don't (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>taˇ (vb)</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>drama</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>li˰ hpu awˬ co-e hkaˇ suhˍ te ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>drug addict</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ yeˇ caˆ shehˍ hpaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>each (clf)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ (clf) peuˬ teˇ (clf)</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ear</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>naˍ paw</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>early</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ na˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>early</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>na˰ na˰ suhˆ suhˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>early</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>na˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>early Christians</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hkuiˉ puiˍ htaˇ ve hkri˰ yaˇ awˬ moˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>earthquake</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>miˬ hiˆ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Ecclesiastes</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Cuˇ yiˍ piˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>eight (8)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hiˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>elder</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>uˉpeunˬ shehˍ hpaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>encourage, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬg'aˇ piˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>end</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ leh meuˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>endeavour, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>coˇ caˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>energetically do (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>g'aˇ hte˰ (vb)</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>enough (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) law˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>enter, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>lo˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>entire</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'a peu-eˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Ephesians</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Eˇfeˇsu˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Esther</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Iˉsaˍtaˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>even though</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>htawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>even, too</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nehˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ever (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) jaw ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>everlasting life</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>co co taiˍ taiˍ ve a sha˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>every (clf)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ (clf) le le</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Exodus</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Tawˆ k'ai ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>expand, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>uiˍ la ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>experience</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpuˇ jaw ve awˬ lawn k'ao ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>eye</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>mehˆ shiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>eye</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>mehˆ shiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Ezekiel</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Yeˍsaˍkeˍlaˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Ezra</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Eˇzaˍraˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>face</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>mehˆ hpfuhˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>false religion</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>maˇ heˆ heˆ ve bon liˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>family</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>yehˬ k'a</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>father</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ pa</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>February</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Feˍbaˬvaˬriˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>field</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ti mi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>field service meeting</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>bon maˍ ve aw˰ hk'aˇ awˬ pon hpawˬ da˰ veˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>find, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ca ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>finger</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>la˰ naw</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>fire</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>aˬ miˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>first</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hkuiˉ puiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>first</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˉ lawˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>first</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˉ lawˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>fish</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ngaˇ shaˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>five (5)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ngaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>follow (vb), to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>g'a˰ (vb)</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>follow example</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>henˇ yaˬ tuˬ awˬ hk'aˇ suh g'aˬ te ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>follow, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>g'a˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>food shortage</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>caˇ tuˬ haˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>for</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ pon</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>forever</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>co co taiˍ taiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>four (4)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>free</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>a hk'e leˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Friday</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shinˉ peuˬ ngaˇ nyi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>front</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>g'uˇ suhˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>fruits</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>iˉ shiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>full time minister</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ yanˇ biˇ ve kanˉ te shehˍ hpaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>full, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>biˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Galatians</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Gaˍlaˍtiˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>general classifier</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>maˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Genesis</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Awˬ hkuiˉ puiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>gift</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>la˰ shawn</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>glass</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>la keh</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>go, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>k'ai ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>good news</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>da˰ ve sha tanˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>good news</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ha lehˬ ve bon hkawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>gospel</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ha lehˬ ve bon hkawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>government</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>laˇ htaˇ banˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>government</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>laˇ htaˇ banˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>grandmother</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>a pi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>grape</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>a pehˉmeuˇshiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>grateful, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shu ve awˬ bon hta˰ shiˍ puiˉ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>greedy, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>lawˇ hpa˰ uiˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>group</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ moˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>group classifier</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>moˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>gentry, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>uiˍ la ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>gentry, to (in number)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>maˇ la ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Habakkuk</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Haˍbaˍkuˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>habit</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ liˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Haggai</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Haˆgehˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>hair</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>uˉ hkeh mvuh</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>hand</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>la˰ sheh</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>happen</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpeh˰ la ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>he</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>yawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>head</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>oˉ k'oˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>heart (figurative)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyi ma</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>heart (physical)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyi ma shiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>heaven</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>mvuhˇ naw ma</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Hebrews</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Heˍbrehˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>help, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ga ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>him, her</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>yawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>hinder, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>htaw ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>hinder, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>heh˰ hkehnˉ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>hole</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>miˬ k'oˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>holy spirit</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>da˰ve kehˬ ve Awˬ ha hpu</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>homosexuality</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hawˇ hk'aˆ chawˇ hawˇ hk´aˆ zuh˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Hosea</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Hawˇseˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>householder</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>yehˬ shehˍ hpaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>how</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'aˬ hke</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>how do</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'aˬ hke te</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>how many</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'aˬ nyiˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>how much</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'aˬ ma</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>humble, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyi ma nuˇ nehˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>if</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>k'o</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>if that's the case</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'e k'o</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>illustration</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tawˇ pa haˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>important, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ lawn uiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>in</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hk'aw lo</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>in order to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tuˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>initiative</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>bon taˍ maˍ jawˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>international assembly</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>laiˇ mvuhˇ miˬ hpawnˬ da˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>interview</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>yi leh k'aoˍ tcuh ve awˬ lawn te maˍ laˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>intestines</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ g'uˬ tehˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>introduce</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>maˆ shiˍ da˰ jaw ve shiˍ da˰ tuˬ te piˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>investigate, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>chaˬ nyi ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Isaiah</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Iˉsaˍyaˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>issue</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ lawn</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>James</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Yaˍkoˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>January</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Jaˬnaˬvaˬriˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Jehovah</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Yaˍhoˉva˰ G'uiˬ sha</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Jeremiah</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Yeˍraˍmiˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Jesus</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Yeˍsuˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Job</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Yawˇbaˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Joel</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Yawˇlaˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>John</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Yoˇhanˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Jonah</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Yoˇnaˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Joshua</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Yawˇsuˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Jude</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Yuˇda˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>judgement</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>suhˉ jehˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Judges</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Suhˉ jehˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>July</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Juˬlaiˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>June</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Junˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>kettle</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tu k'aw</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>kingdom</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>mvuhˇ mi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Kings</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Jawˇ mawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>knee</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hkui tcuhˉ k'u</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>know, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shiˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>knowledge</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>cuˇ yiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Lamentations</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Dawˇ haˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>language</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hkawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>last</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ leh</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>last</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ leh</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>last [week]</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ponˬ la ve [teˇ shinˉ]</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>last [year]</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ponˬ la ve [teˇ hk'aw˰]</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>last days</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ lehˬ meuˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>law</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ liˇ tawˇ hkawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>law</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>uˉ pa te</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>learn, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>henˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>learn, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>henˇ ve jawˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>leave someone behind, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>cheˬ taˉ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>leg</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hkui g'awˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Leviticus</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Oˉ k'oˍ pui ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>library</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>li˰ bawehˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>life</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>a sha˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>like, as</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'e</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>live, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>te˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>live, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>chehˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>long</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>zuhˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>long ago</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>aˉ suhˆ htaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>long time</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>zuhˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>look, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyi ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>loud sound</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hkawˇ bvuhˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>love, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ha˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Luke</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Luˉka˰ li˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Luke</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Luˉka˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Malachi</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Maˍlaˍhkiˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>mango</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>maˉ mo shiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>many (clf)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>laiˉ (clf)</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>March</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Maˆchiˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Mark</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Maˍkuˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Matthew</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Ma˰htehˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>May</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Meˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>maybe</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hehˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>me</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ngaˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>medical directive</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>saˍ la˰ g'onˍ hpaw beˇ maˍ laˇ ve li˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>medicine</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>naˆ tsuhˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>meek, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyi ma nuˇ nehˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>meet, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpuˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>meet, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpuˇ da˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>meeting</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpawˍ da˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Micah</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Miˆhkaˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>microphone</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>mai hk'a fo</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>minister</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>kanˉ te paˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ministerial servant</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>kanˉ g'a ga shehˉ hpaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Monday</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shinˉ peuˬ teˇ nyi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>money</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpu</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>month</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ha pa</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>more (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) chaweh</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>mouth</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>maw˰ k'aw</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>mushroom</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>mvuhˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>must (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>g'a (vb)</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Nahum</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Naˍhunˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>nail (finger)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>la˰ shiˍ k'uˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>name</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ meh</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>neck</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>k'awˍ peˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>need to (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) cawˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>need, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>loˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>negative attitude</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>haiˬ ve hpawˇ lo nyi ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Nehemiah</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Neˍhaˍmiˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>new</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ suhˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>new earth</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>miˬ guiˬ awˬ suhˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>new heaven</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>mvuh nawˇ awˬ suhˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>news</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hkaoˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>next (clf)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ g'uˇ suhˍ teˇ (clf)</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>next week</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shawˉ teˇ shinˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>nine (9)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>k'awˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>no</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>maˇ heˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>nose</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>naˍ hk'awˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>November</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Noˬveˇbaˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>now...</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>chi teˇ hkui</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Numbers</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Heh puiˉ hk'aw</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Obediah</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Awˇbaˍdiˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>obey, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>na yuˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>October</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Awˇtoˇbaˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>offer, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tanˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>often (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ hkui teˇ hkui (vb)</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>one (1)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>one hundred (100)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ ha</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>one hundred thousand (100000)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ shehnˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>one million (1000000)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ lanˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>one thousand (1000)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ hinˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>onto</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hk'oˆ lo</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>opportunity</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>a khwaˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>orange</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>maˉ cuˉ shiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>other, another</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ kaˍ awˬ nu</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ought to (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>cawˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>outline</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ lawn</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>overseer</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyi ha˰ shaˉ shehˍ hpaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>paradise</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hko</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>paradise on earth</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>miˬ guiˬ hk'oˆ ve hko</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>parents</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ pa awˬ e</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>pay, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>keu ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>person</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>chaw</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>person classifier</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>g'aˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Peter</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Peˍtruˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>pharisee</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpaˍriˍsehˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Philemon</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Hpiˇleˍmonˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Philippians</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Hpiˇliˇpiˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>pioneer</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpai o ni</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>place classifier</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>kaˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>plant classifier</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>cehˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>please (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ bon te leh (vb)</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>plural</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ hpaˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>pollution</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ paˇ awˬ kui canˬ ve aw˰ ceuˬ hta˰ te luˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>pork</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>va˰ shaˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>positive attitude</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>da˰ ve hpawˇ lo nyi ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>potato</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ya˰yiˉshiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>pour out, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ngeuˍ baˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>pour, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ngeuˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>power</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>kanˇ paˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>pray, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>bon law ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>prayer</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>bon law hkawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>preaching</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>penˬ k'ai ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>prepare, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>gu ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>presentation</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>te maˍ laˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>price</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hkanˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>priest</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>paw hkuˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>problem</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>pan haˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>produce fruit, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ suhˍ naw˰ la ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>promise</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ka ti˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>prophecy</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tcuh kaˍ paˍ tawˇ hkanˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Proverbs</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Tawˇ naˉ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>provide, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>gu taˍ laˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Psalms</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Chiˇ mvuh ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>public talk</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpawnˍ da˰ ve teˇ g'aˇ leh laˬ hpeh˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>publisher</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>bon maˍ shehˍ hpaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>punish, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ciˍ yanˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>question, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>na nyi ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>radish</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>g'awˇ ma hpu</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>read, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>g'aw ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>reader</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>g'aw shehˍ hpaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>reason</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ lawn</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>reciprocal (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) da˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>regular pioneer</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'aˬ htaˆ ka˰ hpai o ni te ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>religion</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>bon liˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>remaining</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ leuˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>report</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>kanˉ hto ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>report (field service)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>kanˉ hto yuˬ keu</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>respond, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tawˇ yaw hk'aw˰ piˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>responsibility</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ vuiˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>responsibility, to give</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ vuiˬ pfuhˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>responsibility, to take</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ vuiˬ pfuhˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>return visit</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ca k'aw˰ guiˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Revelation</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Hpeu˰ maˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>review</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>maˇ nyi nyi te leh hk'aw˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>righteous</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hteˇ ve cawˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Romans</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Roˉma˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>rope</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>aˉ hkeh</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>round thing classifier</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ruined, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>luˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>rulership</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>uˉ peunˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Ruth</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Ruˉhtaˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>same</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'a shuˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Samuel</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Saˍmo-eˍlaˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Satan</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>neˇ haiˬ Saˍtanˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Saturday</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shinˉ peuˬ hkaw˰ nyi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>say, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>k 'oˆ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>search, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ca ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>section classifier</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tawn</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>see, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>mawˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>self</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ to</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>self</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>a shu yawˇ awˬ to</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>send, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>feu ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>September</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Sehˆteˇbaˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>service</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>kanˇ te ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>service meeting</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>kanˉ te tuˬ hpawˍ da˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>seven (7)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>suhˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>shake, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hiˆ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>she</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>yawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>shirt</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>aˉ po˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>should (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) cawˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>shoulder</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>la˰ k'aˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>show example</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>da˰ ve henˇ youˬ tuˬ te taˉ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>sign of last days</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ lehˬ meuˇ ve awˬ heˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>similar, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>suhˍ da˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>sin</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>venˇ baˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>six (6)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hkaw˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>so</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'e te leh</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>some</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ hpaˍ hpaˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>song</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>li˰ hkawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Song of Solomon</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Sawˉla˰monˍ k'a muiˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>sound</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hkawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>special assembly</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ nyi hpawnˬ da˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>special pioneer</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shu hta˰ maˇ shuˍ hpai o ni</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>spirit of world</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>miˬ guiˬ ve awˬ han</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>start (vb), to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tanˬ (vb) ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>start, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tanˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>starvation</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>meu˰ ve kaˆ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>stomach</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ feuˉ k'oˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>stress</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpeh˰ bawˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>study, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>henˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>succeed, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hpe˰ laˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Sunday</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shinˉ nyi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>symbolic</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ heˆ hpeh˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>table</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpeu lawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>take and (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>yuˬ (vb) ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>take, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>heuˆ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>talk</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>bon maˍ hkawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>taxes</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpaˇ shiˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>teach, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>maˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>tell &amp; explain, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hto maˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>tempt, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>beˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ten (10)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ chi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>ten thousand (10000)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ meunˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>territory</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>kanˉ hk'aˇ awˬ ti</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>thank you</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ bon uiˍ jaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>that</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>oˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>them</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>yawˇ hui</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>theme</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ lawn lonˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>there</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>oˇ kaˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>therefore</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'e hta˰ pa taw</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>these</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>chi teˇ hpaˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Thessalonians</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Hteˇsaˍlawˇniˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>think, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>dawˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>this</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>chi ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>this [week]</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>chi [teˇ shinˉ]</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>three (3)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shehˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>throat</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'aw˰ hk'aw</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Thursday</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shinˉ peuˬ awˇ nyi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>time, instance</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>pawˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Timothy</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Tiˆmoˉseˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>tired, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>heuˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Titus</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Tiˇtuˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>to start (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tanˬ (vb) ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>together</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teˇ geh</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>together (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hpoˆ (vb)</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>tomorentry</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shawˉ pawˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>tonight</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ya˰ puiˉ haˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>too</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>htawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>tools</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hk'eun</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>tooth</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tceuhˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>trick, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>beˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>true religion</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ tehˬ ve bon liˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>true worship</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ tehˬ uˉ k'oˍ pui ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>truth</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ tehˬ awˬ na</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>try to (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) nyi ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>try to (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) lawˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>try, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>coˇ caˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Tuesday</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shinˉ peuˬ nyiˇ nyi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>two (2)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyiˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>types classifier</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ceuˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>unbaptised publisher</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>baˆ tiˆ saˬ maˇ hkanˍ htaˇ bon maˍ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>universal issue</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ lawn hk'a peu-e</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>until (up to)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'a gaˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>until (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) ceh ceh</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>us</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ngaˬ hui</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>use, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>yehˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>vegetables</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>g'awˇcaˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>verse</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>kaˇ naˉ ehˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>violence</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hehnˇ ve awˬ ceuˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>visit, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ca guiˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>volunteer</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyi ma pfuhˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>waist</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>caw˰ cehˍ nyi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>wait, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>law ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>want to (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) gaˇ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>war</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>baw˰ da˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>warn, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shaˍ ti˰ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>watermelon</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>teh hkaˉ shiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>way</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hk'aˇ suh</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>way to (vb)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>(vb) hk'aˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Wednesday</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>shinˉ peuˬ shehˆ nyi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>week</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ shinˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>welcome, to</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>ha˰ yuˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>what</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>aˬ ma</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>what</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>aˬ hto˰ ma</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>when</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>htaˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>where</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>hk'aˬ ka˰ le</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>who</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>a shu</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>why</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>aˬ hto˰ ma pa taw</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>wicked things</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>haiˬ ve awˬ ceuˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>wickedness</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>haiˬ ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>will</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>a loˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>wisdom</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>cuˇ yiˍ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>wood</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>suhˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>words</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>tawˇ hkawˇ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>work</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>kanˉ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>worried, to be</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyi ma haw ve</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>written announcement</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>cawˍ nyiˍ-aˍ li˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>year</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>awˬ hk'aw˰</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>yesterday</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>aˉ nyi</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>you</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nawˬ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>you (plural)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nawˬ hui</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Zechariah</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Zaˍhkaˍriˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>Zephaniah</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>Zeˍhpaˍniˆ</quote>
+                    </cit>
+                </sense>
+            </entry>
+            <entry>
+                <form>
+                    <orth>both (clf)</orth>
+                </form>
+                <sense>
+                    <cit type="trans">
+                        <quote>nyiˇ (clf clf)</quote>
+                    </cit>
+                </sense>
+            </entry>
+        </body>
+    </text>
+</TEI>
