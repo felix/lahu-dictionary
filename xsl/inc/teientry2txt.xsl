@@ -226,7 +226,7 @@
               <xsl:value-of select="'; '"/>
             </xsl:when>
             <xsl:otherwise>
-              <xsl:value-of select="''"/>
+              <xsl:value-of select="' '"/>
             </xsl:otherwise>
           </xsl:choose>
         </xsl:variable>
@@ -252,7 +252,7 @@
           <xsl:when test="not(@type) or @type='cf'">
             <xsl:text>&#xa;   See also: </xsl:text>
             <xsl:apply-templates select="tei:ref"/>
-            <xsl:text>&#xa;</xsl:text>
+            <!-- <xsl:text>&#xa;</xsl:text> -->
           </xsl:when>
           <xsl:when test="@type='syn'">
             <xsl:text>&#xa;   </xsl:text>
@@ -265,7 +265,7 @@
               </xsl:otherwise>
             </xsl:choose>
             <xsl:apply-templates select="tei:ref"/>
-            <xsl:text>&#xa;</xsl:text>
+            <!-- <xsl:text>&#xa;</xsl:text> -->
           </xsl:when>
           <xsl:when test="@type='ant'">
             <xsl:text>&#xa;   </xsl:text>
@@ -278,7 +278,7 @@
               </xsl:otherwise>
             </xsl:choose>
             <xsl:apply-templates select="tei:ref"/>
-            <xsl:text>&#xa;</xsl:text>
+            <!-- <xsl:text>&#xa;</xsl:text> -->
           </xsl:when>
           <xsl:when test="@type='infl-base'">
             <!-- inflectional base -->
