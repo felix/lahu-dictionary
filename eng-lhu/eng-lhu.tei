@@ -339,7 +339,7 @@
       </entry>
       <entry>
         <form>
-          <orth>angry, to be</orth>
+          <orth>angry</orth>
         </form>
         <sense>
           <gramGrp>
@@ -790,7 +790,7 @@
       </entry>
       <entry>
         <form>
-          <orth>brave, to be</orth>
+          <orth>brave</orth>
         </form>
         <sense>
           <gramGrp>
@@ -879,7 +879,7 @@
       </entry>
       <entry>
         <form>
-          <orth>care for, to </orth>
+          <orth>care</orth>
         </form>
         <sense>
           <gramGrp>
@@ -982,7 +982,7 @@
       </entry>
       <entry>
         <form>
-          <orth>clear, to be (like glass)</orth>
+          <orth>clear (like glass)</orth>
         </form>
         <sense>
           <gramGrp>
@@ -1028,7 +1028,7 @@
       </entry>
       <entry>
         <form>
-          <orth>complete, to be</orth>
+          <orth>complete</orth>
         </form>
         <sense>
           <gramGrp>
@@ -1041,7 +1041,7 @@
       </entry>
       <entry>
         <form>
-          <orth>confident, to be</orth>
+          <orth>confident</orth>
         </form>
         <sense>
           <gramGrp>
@@ -1210,7 +1210,7 @@
       </entry>
       <entry>
         <form>
-          <orth>different, to be</orth>
+          <orth>different</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -1223,7 +1223,7 @@
       </entry>
       <entry>
         <form>
-          <orth>difficult, to be</orth>
+          <orth>difficult</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -1263,7 +1263,7 @@
       </entry>
       <entry>
         <form>
-          <orth>discouraged, to be</orth>
+          <orth>discouraged</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -1933,7 +1933,7 @@
       </entry>
       <entry>
         <form>
-          <orth>full, to be</orth>
+          <orth>full</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -2073,7 +2073,7 @@
       </entry>
       <entry>
         <form>
-          <orth>grateful, to be</orth>
+          <orth>grateful</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -2083,7 +2083,7 @@
       </entry>
       <entry>
         <form>
-          <orth>greedy, to be</orth>
+          <orth>greedy</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -2383,7 +2383,7 @@
       </entry>
       <entry>
         <form>
-          <orth>humble, to be</orth>
+          <orth>humble</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -2423,7 +2423,7 @@
       </entry>
       <entry>
         <form>
-          <orth>important, to be</orth>
+          <orth>important</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -3123,7 +3123,7 @@
       </entry>
       <entry>
         <form>
-          <orth>meek, to be</orth>
+          <orth>meek</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -4253,7 +4253,7 @@
       </entry>
       <entry>
         <form>
-          <orth>ruined, to be</orth>
+          <orth>ruined</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -4503,7 +4503,7 @@
       </entry>
       <entry>
         <form>
-          <orth>similar, to be</orth>
+          <orth>similar</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -4976,7 +4976,7 @@
       </entry>
       <entry>
         <form>
-          <orth>tired, to be</orth>
+          <orth>tired</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -5526,7 +5526,7 @@
       </entry>
       <entry>
         <form>
-          <orth>worried, to be</orth>
+          <orth>worried</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -9769,7 +9769,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to make a noise, to be sounded out (gossip)</orth>
+          <orth>to make a noise sounded out (gossip)</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -42341,7 +42341,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to have, to be in existence, be there</orth>
+          <orth>to have in existence, be there</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -42381,7 +42381,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to be left over</orth>
+          <orth>left over</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -42411,7 +42411,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to have money</orth>
+          <orth>have money</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -42431,12 +42431,56 @@
       </entry>
       <entry>
         <form>
-          <orth>to get, to come to have, to appear</orth>
+          <orth>get</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
             <quote>cawˬ la ve</quote>
           </cit>
+          <xr type="cf">
+            <lbl>Related</lbl>
+            <ref target="#come">come</ref>
+          </xr>
+          <xr type="cf">
+            <lbl>Related</lbl>
+            <ref target="#appear">appear</ref>
+          </xr>
+        </sense>
+      </entry>
+      <entry>
+        <form>
+          <orth>come</orth>
+        </form>
+        <sense>
+          <cit type="trans" lang="lhu">
+            <quote>cawˬ la ve</quote>
+          </cit>
+          <xr type="cf">
+            <lbl>Related</lbl>
+            <ref target="#get">get</ref>
+          </xr>
+          <xr type="cf">
+            <lbl>Related</lbl>
+            <ref target="#appear">appear</ref>
+          </xr>
+        </sense>
+      </entry>
+      <entry>
+        <form>
+          <orth>appear</orth>
+        </form>
+        <sense>
+          <cit type="trans" lang="lhu">
+            <quote>cawˬ la ve</quote>
+          </cit>
+          <xr type="cf">
+            <lbl>Related</lbl>
+            <ref target="#get">get</ref>
+          </xr>
+          <xr type="cf">
+            <lbl>Related</lbl>
+            <ref target="#come">come</ref>
+          </xr>
         </sense>
       </entry>
       <entry>
@@ -42481,7 +42525,7 @@
       </entry>
       <entry>
         <form>
-          <orth>depend on (n), be up to (n)</orth>
+          <orth>depend on</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -42892,7 +42936,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to prophesy</orth>
+          <orth>prophesy</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -42902,7 +42946,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to use servants, have someone work for you</orth>
+          <orth>use servants, have someone work for you</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -43252,7 +43296,7 @@
       </entry>
       <entry>
         <form>
-          <orth>be likely to stick to (object), be contagious</orth>
+          <orth>contagious, be likely to stick to (object)</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -43412,7 +43456,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to divine (animist), predict</orth>
+          <orth>divine (animist), predict</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -43902,7 +43946,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to cough</orth>
+          <orth>cough</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -43952,7 +43996,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to temper a knife</orth>
+          <orth>temper a knife</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -43962,7 +44006,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to get a splinter</orth>
+          <orth>get a splinter</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -44092,7 +44136,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to disintegrate, pulverize</orth>
+          <orth>disintegrate, pulverize</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -44102,7 +44146,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to chew thoroughly</orth>
+          <orth>chew thoroughly</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -44432,7 +44476,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to owe a debt</orth>
+          <orth>owe</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -44472,11 +44516,21 @@
       </entry>
       <entry>
         <form>
-          <orth>to investigate, check into</orth>
+          <orth>investigate</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
             <quote>chaˬ nyi ve</quote>
+          </cit>
+        </sense>
+      </entry>
+      <entry>
+        <form>
+          <orth>consider</orth>
+        </form>
+        <sense>
+          <cit type="trans" lang="lhu">
+            <quote>caˬ nyi ve</quote>
           </cit>
         </sense>
       </entry>
@@ -44532,7 +44586,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to soil, to make unclean, to make dirty</orth>
+          <orth>soil, make unclean, make dirty</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -44672,7 +44726,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to (v) this way</orth>
+          <orth>this way</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -45162,7 +45216,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to weave</orth>
+          <orth>weave</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -45252,7 +45306,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to lift up, raise, pick up</orth>
+          <orth>lift up, raise, pick up</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -45312,7 +45366,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to brag, boast</orth>
+          <orth>brag, boast</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -45392,7 +45446,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to praise</orth>
+          <orth>praise</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -45702,7 +45756,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to get sunburnt</orth>
+          <orth>sunburnt</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -45722,7 +45776,7 @@
       </entry>
       <entry>
         <form>
-          <orth>be burnt to death</orth>
+          <orth>burnt to death</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -45812,7 +45866,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to smoke out a wasp's nest</orth>
+          <orth>smoke out a wasp's nest</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -46072,7 +46126,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to punch, attack physically</orth>
+          <orth>punch, attack physically</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -46102,7 +46156,7 @@
       </entry>
       <entry>
         <form>
-          <orth>we have to pick a new set of committee members.</orth>
+          <orth>we have to pick a new set of committee members</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -46112,7 +46166,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to filter, strain</orth>
+          <orth>filter, strain</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -46222,7 +46276,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to sharpen</orth>
+          <orth>sharpen</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -46242,7 +46296,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to tremble, shake</orth>
+          <orth>tremble, shake</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -46272,7 +46326,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to shiver and shake, be jittery</orth>
+          <orth>shiver and shake, be jittery</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -46392,7 +46446,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to resolve, decide definitely</orth>
+          <orth>resolve, decide definitely</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -46622,7 +46676,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to wake up startled</orth>
+          <orth>wake up startled</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -46962,7 +47016,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to remain, stay behind, be left behind</orth>
+          <orth>remain, stay behind, be left behind</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -47002,7 +47056,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to have wasted time waiting around</orth>
+          <orth>wasted time waiting around</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -47182,7 +47236,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to keep on (v)ing, be (v)ing</orth>
+          <orth>keep on (v)ing, be (v)ing</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -48192,7 +48246,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to cross over</orth>
+          <orth>cross over</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -48322,7 +48376,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to sweeten</orth>
+          <orth>sweeten</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -48502,7 +48556,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to weigh (something)</orth>
+          <orth>weigh (something)</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -48572,7 +48626,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to wash</orth>
+          <orth>wash</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -48702,7 +48756,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to close up</orth>
+          <orth>close up</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -48902,7 +48956,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to tie, make a knot</orth>
+          <orth>tie, make a knot</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -49382,7 +49436,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to (v) more and more (chinese grammarˉˉˉ)</orth>
+          <orth>to (v) more and more (chinese grammar)</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -50322,7 +50376,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to kill by stabbing</orth>
+          <orth>kill by stabbing</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -50352,7 +50406,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to point</orth>
+          <orth>point</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -50392,7 +50446,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to incite, instigate, stir up</orth>
+          <orth>incite, instigate, stir up</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -51182,17 +51236,21 @@
       </entry>
       <entry>
         <form>
-          <orth>to feel (physical sensation, emotions, awareness)</orth>
+          <orth>feel (physical sensation, emotions, awareness)</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
             <quote>jawˬ ve</quote>
           </cit>
+          <xr type="cf">
+            <lbl>Related</lbl>
+            <ref target="#numb">numb</ref>
+          </xr>
         </sense>
       </entry>
       <entry>
         <form>
-          <orth>be unable to feel it when someone touches you</orth>
+          <orth>numb</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -51812,7 +51870,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to drink liquor, alcohol</orth>
+          <orth>drink (alcohol)</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -52012,7 +52070,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to tear, rip</orth>
+          <orth>tear, rip</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -52932,7 +52990,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to do business</orth>
+          <orth>do business</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -53232,7 +53290,7 @@
       </entry>
       <entry>
         <form>
-          <orth>ought to (v), high time to (v)</orth>
+          <orth>ought</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -53272,7 +53330,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to begin, to start</orth>
+          <orth>begin, start</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -53582,7 +53640,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to respect god</orth>
+          <orth>respect god</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -53932,7 +53990,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to (v) upwards</orth>
+          <orth>upwards</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -54362,7 +54420,7 @@
       </entry>
       <entry>
         <form>
-          <orth>to plant, implant, stick firmly into</orth>
+          <orth>plant, implant, stick firmly into</orth>
         </form>
         <sense>
           <cit type="trans" lang="lhu">
@@ -54503,11 +54561,22 @@
       </entry>
       <entry>
         <form>
-          <orth>to button</orth>
+          <orth>button</orth>
         </form>
         <sense>
+          <gramGrp>
+            <pos>vt</pos>
+          </gramGrp>
           <cit type="trans" lang="lhu">
             <quote>tiˉ ve</quote>
+          </cit>
+        </sense>
+        <sense>
+          <gramGrp>
+            <pos>n</pos>
+          </gramGrp>
+          <cit type="trans" lang="lhu">
+            <quote>tiˉ hk'aˆ shiˍ</quote>
           </cit>
         </sense>
       </entry>
@@ -54523,16 +54592,6 @@
       </entry>
       <entry>
         <form>
-          <orth>a button</orth>
-        </form>
-        <sense>
-          <cit type="trans" lang="lhu">
-            <quote>tiˉ hk'aˆ shiˍ</quote>
-          </cit>
-        </sense>
-      </entry>
-      <entry>
-        <form>
           <orth>sew buttons onto a shirt</orth>
         </form>
         <sense>
@@ -54543,9 +54602,12 @@
       </entry>
       <entry>
         <form>
-          <orth>unbutton a button</orth>
+          <orth>unbutton</orth>
         </form>
         <sense>
+          <gramGrp>
+            <pos>vt</pos>
+          </gramGrp>
           <cit type="trans" lang="lhu">
             <quote>tiˉ hk'aˆ shiˍ hpui ve</quote>
           </cit>
