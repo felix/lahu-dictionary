@@ -1,7 +1,6 @@
-# English-Lahu dictionary
+# Lahu dictionary
 
-TEI formatted dictionary source.
+[XDXF](https://github.com/soshial/xdxf_makedict/blob/master/format_standard/xdxf_description.md)
+formatted Lahu dictionary.
 
-Lahu-English coming soon.
-
-Feel free to contribute.
+Please feel free to contribute.

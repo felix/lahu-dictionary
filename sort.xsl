@@ -9,14 +9,10 @@
 
     <xsl:template match="text()[not(string-length(normalize-space()))]"/>
 
-    <!--
-         If xsltproc did version 2
-         <xsl:template match=":text/:body">
-    -->
-    <xsl:template match="*[local-name() = 'text']/*[local-name() = 'body']">
+    <xsl:template match="*[local-name() = 'text']/*[local-name() = 'lexicon']">
         <body>
-            <xsl:apply-templates select="*[local-name() = 'entry']">
-                <xsl:sort select="*[local-name() = 'form']/*[local-name() = 'orth']"/>
+            <xsl:apply-templates select="*[local-name() = 'ar']">
+                <xsl:sort select="*[local-name() = 'k']"/>
             </xsl:apply-templates>
         </body>
     </xsl:template>

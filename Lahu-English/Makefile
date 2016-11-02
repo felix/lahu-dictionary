@@ -1,4 +1,4 @@
-BASEDIR ?= ..
+basedir = ..
 dictname ?= $(shell basename "$(shell pwd)")
 
-include ../Makefile.common
+include ../Makefile.inc
